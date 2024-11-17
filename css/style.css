@@ -1055,7 +1055,7 @@ footer .span3 {
   clear: both;
 }
 .list-soc li {
-  float: left;
+  float: right;
   margin: 0 1px 0 0;
 }
 .list-soc li:first-child {
